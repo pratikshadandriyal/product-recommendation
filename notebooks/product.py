@@ -85,7 +85,6 @@ electronics_data.dtypes
 electronics_data.info()
 
 #Five point summary
-
 electronics_data.describe()['Rating'].T
 
 #Find the minimum and maximum ratings
